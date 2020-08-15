@@ -1,4 +1,14 @@
-# ApiEcommerce
+# Projeto API E-Commerce
+
+![Imagem Redis- Mysql](img/Redis-Mysql.png)
+
+##  Pré-requisitos para execução da API
+ - Tecnologias necessárias.
+ 
+    1- Para executar o projeto é necessário ter instalado Java SE Development Kit.
+ 
+    2- Utilizar uma IDE para execução.
+---
 
 http://localhost:8080/ecommerce/cadastro/pedido/ <br>
 http://localhost:8080/ecommerce/cadastro/produto/<br>

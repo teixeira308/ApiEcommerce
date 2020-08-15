@@ -18,6 +18,10 @@ A solução proposta visa usar o Redis para fazer o cache e agilizar o as consul
     5- [Instalar Postman](https://www.postman.com/downloads/)
 ---
 
+## Modelo do banco de dados (EER)
+
+![Modelo banco de dados](img/EER.png)
+
 ## Instalação e execução do projeto
 
 

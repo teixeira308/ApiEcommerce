@@ -32,4 +32,6 @@ Abra esse arquivo e execute `Run`.
 
 - Executar redis-server
 
+- Importar para o Postman a collection ecommerce.postman_collection.json localizada na raiz do projeto
+
 ---

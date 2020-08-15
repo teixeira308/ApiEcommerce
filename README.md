@@ -30,4 +30,6 @@ A solução proposta visa usar o Redis para fazer o cache e agilizar o as consul
 - No diretório `src` no pacote `br.ecommerce.api.test` existe um arquivo chamado `SpringTest.java`. 
 Abra esse arquivo e execute `Run`.
 
+- Executar redis-server
+
 ---

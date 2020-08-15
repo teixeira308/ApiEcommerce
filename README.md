@@ -14,6 +14,16 @@
     4- [Instalar Redis](https://redis.io/topics/quickstart)   
 ---
 
+## Instalação e execução do projeto
+
+
+`$ git clone https://github.com/teixeira308/ApiEcommerce.git`
+
+No diretório `src` no pacote `br.ecommerce.api.test` existe um arquivo chamado `SpringTest.java`. 
+Abra esse arquivo e execute `Run`.
+
+---
+
 http://localhost:8080/ecommerce/cadastro/pedido/ <br>
 http://localhost:8080/ecommerce/cadastro/produto/<br>
 http://localhost:8080/ecommerce/cadastro/cliente/<br>

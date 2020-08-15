@@ -6,8 +6,12 @@
  - Tecnologias necessárias.
  
     1- Para executar o projeto é necessário ter instalado Java SE Development Kit.
- 
+    
     2- Utilizar uma IDE para execução.
+    
+    3- [Instalar Msql](https://www.mysql.com/downloads/)
+    
+    4- [Instalar Redis](https://redis.io/topics/quickstart)   
 ---
 
 http://localhost:8080/ecommerce/cadastro/pedido/ <br>

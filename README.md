@@ -28,10 +28,14 @@ A solução proposta visa usar o Redis para fazer o cache e agilizar o as consul
 - Baixar o projeto: `$ git clone https://github.com/teixeira308/ApiEcommerce.git`
 
 - No diretório `src` no pacote `br.ecommerce.api.test` existe um arquivo chamado `SpringTest.java`. 
-Abra esse arquivo e execute `Run`.
+Abra esse arquivo e execute `Run`
 
-- Executar redis-server
+- Executar redis-server.
 
 - Importar para o Postman a collection ecommerce.postman_collection.json localizada na raiz do projeto
+
+- Executar a requisição POST no Postman para criação de produtos, clientes e pedidos
+
+- Executar a requisição GET no Postman para consultar os cadastros
 
 ---

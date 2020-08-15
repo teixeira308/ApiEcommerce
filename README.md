@@ -25,9 +25,9 @@ A solução proposta visa usar o Redis para fazer o cache e agilizar o as consul
 ## Instalação e execução do projeto
 
 
-`$ git clone https://github.com/teixeira308/ApiEcommerce.git`
+- Baixar o projeto: `$ git clone https://github.com/teixeira308/ApiEcommerce.git`
 
-No diretório `src` no pacote `br.ecommerce.api.test` existe um arquivo chamado `SpringTest.java`. 
+- No diretório `src` no pacote `br.ecommerce.api.test` existe um arquivo chamado `SpringTest.java`. 
 Abra esse arquivo e execute `Run`.
 
 ---

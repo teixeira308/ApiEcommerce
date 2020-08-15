@@ -13,7 +13,9 @@ A solução proposta visa usar o Redis para fazer o cache e agilizar o as consul
     
     3- [Instalar Msql](https://www.mysql.com/downloads/)
     
-    4- [Instalar Redis](https://redis.io/topics/quickstart)   
+    4- [Instalar Redis](https://redis.io/topics/quickstart)
+    
+    5- [Instalar Postman](https://www.postman.com/downloads/)
 ---
 
 ## Instalação e execução do projeto
